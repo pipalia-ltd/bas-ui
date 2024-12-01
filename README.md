@@ -70,7 +70,7 @@ src/
 
 ## API Integration
 
-- **Endpoint**: Replace `https://your-backend-api.com/upload` in `FileUploader.js` with your backend API endpoint.
+- **Endpoint**: Replace `https://github.com/A3TNIP/BAS-gemma-hackathon/upload` in `FileUploader.js` with your backend API endpoint.
 - **Request**: Sends a `POST` request with `multipart/form-data`.
 - **Response Format**: 
    ```json
