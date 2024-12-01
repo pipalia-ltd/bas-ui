@@ -37,8 +37,8 @@ A minimalistic file upload and search application built with React and Material-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bas-google-gemma-2-hackathon.git
-   cd bas-google-gemma-2-hackathon
+   git clone https://github.com/pipalia-ltd/bas-ui
+   cd bas-ui
    ```
 
 2. Install dependencies:
@@ -119,4 +119,4 @@ This project was created for the **BAS Google Gemma 2 Hackathon** to showcase ho
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name/Organization] at [Your Email].
+For any inquiries or support, please contact Samir Pipalia (samir@pipalia.co.uk), Aaju (maharjanaaju@gmail.com), Binaya (binayaghimire147@gmail.com).
